@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="6055" started-at="2019-11-24T13:15:57Z" finished-at="2019-11-24T13:16:03Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="6055" started-at="2019-11-24T13:15:57Z" finished-at="2019-11-24T13:16:03Z">
+      <class name="DDT.xceltest">
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DDT.xceltest@523884b2]" name="test" duration-ms="2412" started-at="2019-11-24T13:15:59Z" data-provider="testpro" finished-at="2019-11-24T13:16:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[wqre]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[wqre]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DDT.xceltest@523884b2]" name="test" duration-ms="561" started-at="2019-11-24T13:16:01Z" data-provider="testpro" finished-at="2019-11-24T13:16:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[dsgf]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DDT.xceltest@523884b2]" name="test" duration-ms="507" started-at="2019-11-24T13:16:01Z" data-provider="testpro" finished-at="2019-11-24T13:16:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cxbv]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DDT.xceltest@523884b2]" name="test" duration-ms="494" started-at="2019-11-24T13:16:02Z" data-provider="testpro" finished-at="2019-11-24T13:16:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[gdka]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[063qr6]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="test(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:DDT.xceltest@523884b2]" name="test" duration-ms="728" started-at="2019-11-24T13:16:02Z" data-provider="testpro" finished-at="2019-11-24T13:16:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[jofyfoi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+      </class> <!-- DDT.xceltest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
