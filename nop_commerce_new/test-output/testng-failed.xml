@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [testsuite]">
+  <test thread-count="5" name="tests(failed)">
+    <classes>
+      <class name="com.employeeapi.testCases.TC_05_DeleteEmployee">
+        <methods>
+          <include name="delete"/>
+          <include name="setup"/>
+        </methods>
+      </class> <!-- com.employeeapi.testCases.TC_05_DeleteEmployee -->
+    </classes>
+  </test> <!-- tests(failed) -->
+</suite> <!-- Failed suite [testsuite] -->
